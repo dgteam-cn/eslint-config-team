@@ -1,18 +1,20 @@
 {
   "name": "@dgteam/eslint-config-team",
   "version": "0.1.2",
-  "description": "",
+  "description": "Eslint config",
+  "keywords": ["dgteam", "eslint-config"],
   "main": "index.js",
   "scripts": {
     "push": "npm publish --access public",
     "reset": "rimraf node_modules"
   },
   "author": "w2681137811 <donguayx@qq.com>",
+  "homepage": "https://github.com/dgteam-cn/eslint-config-team",
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/2681137811/dg-eslint-config-team"
+    "url": "https://github.com/dgteam-cn/eslint-config-team"
   },
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
     "node": ">=10.0.0"
   },
